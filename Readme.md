@@ -1,5 +1,10 @@
 # 🏡 House Price Prediction
 
+## 🚀 Live Demo
+Click below to try the deployed model on Streamlit:
+
+🔗 **https://jayagrawalhouseprice.streamlit.app/**
+
 This project focuses on predicting house prices using machine learning techniques. It includes data cleaning, exploratory data analysis (EDA), feature engineering, model building, and evaluation using multiple regression algorithms. The final model was developed using XGBoost with optimized hyperparameters and achieved strong performance.
 
 ## 📌 Project Overview
